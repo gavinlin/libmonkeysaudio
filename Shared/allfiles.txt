@@ -1,0 +1,5 @@
+	Shared/CharacterHelper.cpp \
+	Shared/CircleBuffer.cpp \
+	Shared/GlobalFunctions.cpp \
+	Shared/StdLibFileIO.cpp \
+	Shared/WinFileIO.cpp 
